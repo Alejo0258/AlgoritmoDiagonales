@@ -8,11 +8,12 @@
  *
  * @author PADILLA GONZALEZ
  */
+//Programa suma numeros impares
 public class NewClass {
     public static void main(String[] args) {	
         long suma;
         suma=0;
-        for(int i=0;i<10;i++)
+        for(int i=0;i<100000000;i++)
         {
             if(i%2==1)
                 suma=suma+i;
