@@ -11,6 +11,7 @@
 //Programa suma numeros impares
 public class NewClass {
     public static void main(String[] args) {	
+        System.out.println("\tPrograma suma de números impares\t");
         long suma;
         suma=0;
         for(int i=0;i<100000000;i++)
