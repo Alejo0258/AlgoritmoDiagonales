@@ -28,6 +28,8 @@ public class Suma_diagonales2 {
                 if (c==n-1) System.out.println();              
             }            
         }
+        
+        sumaDS=0;
         System.out.print(" _______________________________________________ ");
         System.out.println("\nLa suma de la diagonal principal es -> " + sumaDP);
         System.out.println("\nLa suma de la diagonal secundaria es -> " + sumaDS);
